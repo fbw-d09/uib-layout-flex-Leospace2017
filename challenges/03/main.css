@@ -8,3 +8,12 @@ div {
   border: 2px solid red;
   text-align: center;
 }
+
+body
+{
+  display: flex;
+  flex-direction: column-reverse ;
+  justify-content: center;
+  align-items: center;
+  border: 5px solid red;
+}
